@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**g-zavyalov/g-zavyalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌏 Located in Moscow
+- 🎓 Studying CS at HSE
+- 🤓 Know some weird algorithms   : )
 
-Here are some ideas to get you started:
+### Connect with me
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="telegram" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/GZavyalov)
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-F17050?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/glebzavyalov)
+[<img align="left" alt="codeforces" src="https://img.shields.io/badge/codeforces-gray?style=for-the-badge&logo=codeforces&logoColor=white" />](https://codeforces.com/profile/glebanya)
+<br>
+<br>
+## Expertise
+<img align="left" alt="c++" src="https://img.shields.io/badge/c++%20-%2320232a.svg?&style=for-the-badge&logo=cplusplus&logoColor=%2361DAFB" />
+<img align="left" alt="swift" src="https://img.shields.io/badge/swift-f5e2e1?&style=for-the-badge&logo=swift&logoColor=red" />
+<br>
+<br>
