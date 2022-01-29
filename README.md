@@ -2,7 +2,6 @@
 
 - 🌏 Located in Moscow
 - 🎓 Studying CS at HSE
-- 🤓 Know some weird algorithms   : )
 
 ### Connect with me
 [<img align="left" alt="telegram" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/GZavyalov)
