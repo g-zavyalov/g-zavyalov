@@ -11,7 +11,7 @@
 <br>
 <br>
 
-### Expertise
+### Languages
 <img align="left" alt="c++" src="https://img.shields.io/badge/c++%20-%2320232a.svg?&style=for-the-badge&logo=cplusplus&logoColor=%2361DAFB" />
 <img align="left" alt="swift" src="https://img.shields.io/badge/swift-f5e2e1?&style=for-the-badge&logo=swift&logoColor=red" />
 
